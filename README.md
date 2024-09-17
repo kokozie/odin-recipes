@@ -1,0 +1,1 @@
+The project is about recipe using the things that I learned from TheOdinProject lesson. I am going to use HTML to develop the project.
